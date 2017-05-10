@@ -33,7 +33,7 @@ noremap J 5j
 noremap K 5k
 imap jj <Esc>
 
-call plug#begin('~/.vim/plugged')
+call plug#begin('~/.config/nvim/plugged')
 
 Plug 'morhetz/gruvbox'
 Plug 'wikitopian/hardmode'
